@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Maximuni
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning js
+- 💞️ I’m looking to collaborate with programmers
+- 📫 How to reach me https://dsc.gg/obsmc
